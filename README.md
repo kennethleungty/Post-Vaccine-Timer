@@ -1,1 +1,1 @@
-# Vaccination-Wait-Timer
+# Vaccination WaitTime Tracker
