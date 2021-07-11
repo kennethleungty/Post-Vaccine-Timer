@@ -10,5 +10,6 @@
 
 ## Solution
 - Developed a simple web app (using Python Flask and vanilla Javascript) to create a running waittime tracker  
+- Deployed on Heroku: https://bit.ly/vaccine-waittime
 - The web waittime tracker clearly indicates to the user what is the (rounded up) time to chart on the vaccine card  
 - This means that the nurse just needs to look at the web tracker to see the end time, and copy it for documentation (No need for mental calculations anymore)  
