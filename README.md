@@ -1,4 +1,4 @@
-# Post Vaccine WaitTime Tracker
+# Post Vaccine Timer
 
 ## Motivation
 - After receiving a COVID-19 vaccine dose, the patient is to wait >=30 minutes at a designated waiting area for observation (monitor any post-vaccine side effects)  
