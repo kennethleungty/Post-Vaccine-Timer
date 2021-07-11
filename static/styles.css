@@ -1,7 +1,17 @@
 /* CSS Codes */
 
-.time_later{
-  font-size: 44px;
+#time_later{
+  font-size: 48px;
   color: red;
-  font-weight: bold;
+  font-weight: bolder;
+}
+
+#time_now {
+  font-size: 26px;
+  /* font-weight: bold; */
+}
+
+#date_today {
+  font-size: 26px;
+  /* font-weight: bold; */
 }
